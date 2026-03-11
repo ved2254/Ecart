@@ -12,7 +12,7 @@ import Cart from './pages/Cart'
 import Dashboard from './pages/Dashboard'
 import SingleProduct from './pages/SingleProduct'
 import ProtectedRoute from './components/ProtectedRoute'
-import AddProduct from './pages/Admin/AddProduct'
+// import AddProduct from './pages/Admin/AddProduct'
 import AdminProduct from './pages/Admin/AdminProduct'
 import AddressForm from './pages/AddressForm'
 // import Stepper from './components/Stepper'
@@ -25,6 +25,7 @@ import UserInfo from './pages/Admin/UserInfo'
 import AdminSales from './pages/Admin/AdminSales'
 import Footer from './components/Footer'
 import MyOrder from './pages/MyOrder'
+import AddProduct from './pages/admin/AddProduct';
 
 
 const router = createBrowserRouter([
